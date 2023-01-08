@@ -1,4 +1,1 @@
-# okul
-# okul
-# okul
-# okul
+# proje-7
